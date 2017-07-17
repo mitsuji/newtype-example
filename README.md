@@ -1,0 +1,1 @@
+# newtype-example
